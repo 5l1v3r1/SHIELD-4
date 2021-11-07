@@ -2,7 +2,7 @@
 # SHIELD CAPTAIN AMERICA
 SSH Brute Force Attack
 
-<img src="https://github.com/emrekybs/Shield/blob/main/2.jpg">
+<img src="https://github.com/emrekybs/Shield/blob/main/3.jpg">
 Shield Uses Threading in Order to Speed-up the Bruteforce Process
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 AND RUNNING
